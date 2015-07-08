@@ -6,7 +6,7 @@ copyright:	"Frank Scott Carver, 2015",
 license:	"MIT",
 version: 	"1.0.0",
 schelp: 	"BandSplitter4",
-url:		"https://github.com/scztt/bandsplitter.quark",
+url:		"https://github.com/scztt/Bandsplitter.quark",
 dependencies:	[],
 isCompatible:	true,
 since:		"2015"
